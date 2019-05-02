@@ -1,0 +1,33 @@
+,region,state_name,state_name_official,state_abbr,state_abbr_official,protestas_conjuntas,noticias,noticias_unicas,lon,lat
+1,1,Aguascalientes,Aguascalientes,AGS,Ags.,1,1,1,-102.3577750454,22.0065622648
+2,2,Baja California,Baja California,BC,BC,6,6,6,-115.1058491627,30.5837843309
+3,3,Baja California Sur,Baja California Sur,BCS,BCS,2,2,2,-112.0747964638,25.9254763963
+4,4,Campeche,Campeche,CAMP,Camp.,1,1,0,-90.3559033159,18.8403156102
+5,5,Coahuila,Coahuila de Zaragoza,COAH,Coah.,5,5,4,-102.0398335065,27.2956420288
+6,6,Colima,Colima,COL,Col.,2,2,1,-103.9090878064,19.1409241262
+7,7,Chiapas,Chiapas,CHPS,Chis.,130,115,98,-92.4685184422,16.4851430157
+8,8,Chihuahua,Chihuahua,CHIH,Chih.,38,15,12,-106.4646864546,28.8087331307
+9,9,Ciudad de México,Distrito Federal,CDMX,DF,143,135,133,-99.1349777569,19.2767678206
+10,10,Durango,Durango,DGO,Dgo.,2,2,2,-104.9091831579,24.9238071415
+11,11,Guanajuato,Guanajuato,GTO,Gto.,5,4,2,-101.0083215007,20.9055623174
+12,12,Guerrero,Guerrero,GRO,Gro.,105,86,74,-99.9176347823,17.6680239482
+13,13,Hidalgo,Hidalgo,HGO,Hgo.,6,6,3,-98.8827772118,20.4795263021
+14,14,Jalisco,Jalisco,JAL,Jal.,2,2,2,-103.6090009875,20.5808403743
+15,15,México,México,MEX,Mex.,16,16,12,-99.6410957607,19.3559685042
+16,16,Michoacán,Michoacán de Ocampo,MICH,Mich.,19,16,10,-101.8739278195,19.2071402672
+17,17,Morelos,Morelos,MOR,Mor.,13,12,7,-99.0707910083,18.7420834952
+18,18,Nayarit,Nayarit,NAY,Nay.,3,3,1,-104.8368463924,21.8042822389
+19,19,Nuevo León,Nuevo León,NL,NL,6,6,4,-99.9646898929,25.5727490159
+20,20,Oaxaca,Oaxaca,OAX,Oax.,26,26,19,-96.4258994504,16.9613079307
+21,21,Puebla,Puebla,PUE,Pue.,9,9,6,-97.8957228552,19.0061367837
+22,22,Querétaro,Querétaro,QRO,Qro.,3,3,2,-99.8413793354,20.8552454039
+23,23,Quintana Roo,Quintana Roo,QROO,Q. Roo,1,1,1,-88.1227919842,19.5905834961
+24,24,San Luis Potosí,San Luis Potosí,SLP,SLP,4,4,3,-100.4120771592,22.5854553489
+25,25,Sinaloa,Sinaloa,SIN,Sin.,5,2,1,-107.5048542594,25.0014164076
+26,26,Sonora,Sonora,SON,Son.,4,4,2,-110.7946188912,29.6924990633
+27,27,Tabasco,Tabasco,TAB,Tab.,5,5,4,-92.5898633674,17.9377364332
+28,28,Tamaulipas,Tamaulipas,TAM,Tamps.,1,1,1,-98.6366345375,24.291121916
+29,29,Tlaxcala,Tlaxcala,TLAX,Tlax.,5,5,3,-98.1643571641,19.428507907
+30,30,Veracruz,Veracruz de Ignacio de la Llave,VER,Ver.,4,4,2,-96.4142653146,19.3930296128
+31,31,Yucatán,Yucatán,YUC,Yuc.,3,3,0,-88.9166402955,20.7471359517
+32,32,Zacatecas,Zacatecas,ZAC,Zac.,8,8,6,-102.656261703,23.2891444789

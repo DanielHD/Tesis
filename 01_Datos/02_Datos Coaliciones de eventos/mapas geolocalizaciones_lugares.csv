@@ -1,0 +1,282 @@
+exactitud,EPs,lat,lon,Estado,Municipio,Lugar,Bloqueo,Plantón,Marcha,Mitin,Paro de labores,#Repertorios,Repertorio_de_referencia,Repertorio_de_referencia_,Repertorio_de_referencia2
+sí,1,14.9087797,-92.2619619,Chiapas,Tapachula,Palacio Municipal,0,0,1,1,0,2,Marcha,Marcha,Marcha
+sí,1,14.9643407,-92.1480991,Chiapas,Tapachula,Puente internacional México-Guatemala,1,0,0,0,0,1,Bloqueo,Bloqueo,Bloqueo
+sí,1,15.6601183,-92.1410463,Chiapas,Frontera Comalapa,Palacio Municipal,0,0,1,0,0,2,Marcha,Marcha,Marcha
+sí,1,15.6670914,-92.0074124,Chiapas,Frontera Comalapa,Ciudad Cuauhtémoc,1,0,0,0,0,1,Bloqueo,Bloqueo,Bloqueo
+sí,1,16.1826728,-95.196836,Oaxaca,Salina Cruz,CFE,1,0,0,0,0,1,Bloqueo,Bloqueo,Bloqueo
+sí,1,16.2985318,-95.0925292,Oaxaca,Juchitán de Zaragoza,agencia municipal en comunidad Álvaro Obregón,0,0,1,1,0,2,Marcha,Marcha,Marcha
+sí,1,16.4331109,-95.0224686,Oaxaca,Juchitán de Zaragoza,Plaza principal,0,0,1,0,0,1,Marcha,Marcha,Marcha
+sí,1,16.4331211,-95.0238479,Oaxaca,Juchitán de Zaragoza,Alcaldía,0,0,1,1,0,2,Marcha,Marcha,Marcha
+sí,1,16.4653879,-94.8310674,Oaxaca,Unión Hidalgo,San Dionisio del Mar,1,0,0,0,0,1,Bloqueo,Bloqueo,Bloqueo
+sí,1,16.5591657,-93.0253547,Chiapas,Tuxtla Gutiérrez,Aeropuerto Internacional,1,1,0,0,1,3,Bloqueo,Bloqueo,Bloqueo
+sí,1,16.5642575,-93.011654,Chiapas,Chiapa de Corzo,carretera de acceso al aeropuerto internacional Ángel Albino Corzo,1,0,0,0,0,1,Bloqueo,Bloqueo,Bloqueo
+sí,1,16.7030067,-92.6106963,Chiapas,San Cristóbal de las Casas,Carretera Tuxtla Gutiérrez-Ocozocoautla,1,0,0,0,0,3,Bloqueo,Bloqueo,Bloqueo
+sí,1,16.7218606,-92.6533072,Chiapas,Tuxtla Gutiérrez,Carreteras y autopista México-Guatemala,0,0,0,0,1,2,Paro de labores,Paro de labores,Paro de labores
+sí,1,16.7307492,-93.0117998,Chiapas,San Cristóbal de las Casas,caseta carretera San Cristobal- Tuxtla Gutiérrez,0,0,0,0,1,3,Paro de labores,Paro de labores,Paro de labores
+sí,4,16.7307536,-93.0091676,Chiapas,Tuxtla Gutiérrez,carretera de cuota San Cristóbal-Tuxtla Gutiérrez,1,0,0,0,0,1,Varios,Varios,Varios
+sí,2,16.73487,-92.6368555,Chiapas,San Cristóbal de las Casas,CNDH,1,1,0,0,0,2,Varios,Varios,Varios
+sí,2,16.7375831,-92.6399627,Chiapas,San Cristóbal de las Casas,Plaza Catedral,0,0,1,0,0,2,Varios,Varios,Varios
+sí,1,16.7380761,-93.1237184,Chiapas,Tuxtla Gutiérrez,Comisión Nacional para el Desarrollo de los Pueblos Indígenas (CDI),0,0,0,0,0,1,Otro,Toma de instalaciones,Toma de instalaciones
+sí,3,16.7395477,-93.0699073,Chiapas,Tuxtla Gutiérrez,"cuatro plazas comerciales, oficinas públicas y la caseta de cobro de la carretera que comunica a San Cristóbal con la capital del estado",0,1,0,0,1,4,Varios,Varios,Varios
+sí,1,16.7411268,-93.0355504,Chiapas,Tuxtla Gutiérrez,Puente Internacional de Talisman,1,0,0,0,1,2,Bloqueo,Bloqueo,Bloqueo
+sí,2,16.7431693,-93.1370976,Chiapas,Tuxtla Gutiérrez,Plaza comercial Cristal,0,0,0,0,1,2,Varios,Varios,Varios
+sí,1,16.7462353,-93.1645893,Chiapas,Tuxtla Gutiérrez,Plaza de la Libertad,0,1,1,0,1,3,Plantón,Plantón,Plantón
+sí,1,16.7522919,-93.1099015,Chiapas,Tuxtla Gutiérrez,Av. Central,0,0,1,0,1,2,Marcha,Marcha,Marcha
+sí,3,16.752442,-93.1160658,Chiapas,Tuxtla Gutiérrez,Congreso,0,1,0,0,1,3,Varios,Varios,Varios
+sí,1,16.752661,-93.1087107,Chiapas,Tuxtla Gutiérrez,parque 5 de Mayo,1,1,1,0,1,5,Bloqueo,Bloqueo,Bloqueo
+sí,1,16.7546334,-93.1113281,Chiapas,Tuxtla Gutiérrez,Hotel Safari,0,0,1,0,0,6,Marcha,Marcha,Marcha
+sí,3,16.7546382,-93.1156204,Chiapas,Tuxtla Gutiérrez,Parque Central,0,1,1,0,0,2,Varios,Varios,Varios
+sí,2,16.7547256,-93.1155358,Chiapas,Tuxtla Gutiérrez,centro,0,1,1,0,1,3,Varios,Varios,Varios
+sí,1,16.7547697,-93.080745,Chiapas,Tuxtla Gutiérrez,Torre Chiapas,0,0,0,0,1,2,Paro de labores,Paro de labores,Paro de labores
+sí,4,16.7548014,-93.0829551,Chiapas,Tuxtla Gutiérrez,"instalaciones de Televisa y Tv Azteca Chiapas, estaciones de radio, Torre Chiapas y caseta de cobro rumbo a San Cristóbal de Las Casas",0,0,0,0,0,2,Varios,Varios,Varios
+sí,1,16.755257,-93.11553,Chiapas,Tuxtla Gutiérrez,Alcaldía,0,0,0,0,1,2,Paro de labores,Paro de labores,Paro de labores
+sí,6,16.7552928,-93.1233807,Chiapas,Tuxtla Gutiérrez,plaza mayor,0,1,0,0,0,1,Varios,Varios,Varios
+sí,1,16.7553555,-93.1255509,Chiapas,Tuxtla Gutiérrez,Parque de la Marimba,0,1,0,1,1,4,Plantón,Plantón,Plantón
+sí,1,16.756775,-93.1160956,Chiapas,Tuxtla Gutiérrez,Oficinas del PRD y Nueva Alianza,0,0,0,1,1,2,Mitin,Mitin,Mitin
+sí,1,16.7574745,-93.1657996,Chiapas,Tuxtla Gutiérrez,Blvd Belisario Domínguez,1,0,0,0,1,2,Bloqueo,Bloqueo,Bloqueo
+sí,2,16.7620214,-99.7543131,Guerrero,Acapulco de Juárez,Aeropuerto Internacional Juan N. Álvarez,1,1,1,1,0,5,Varios,Varios,Varios
+sí,12,16.7623713,-93.1006929,Chiapas,Tuxtla Gutiérrez,oficinas de la secretaría y la subsecretaría de Educación estatales y la caseta de cobro San Cristóbal de las Casas-Tuxtla Gutierrez,0,0,0,0,0,2,Varios,Varios,Varios
+sí,4,16.7643692,-93.1252635,Chiapas,Tuxtla Gutiérrez,Televisa y TV Azteca,0,1,0,0,1,3,Varios,Varios,Varios
+sí,5,16.766325,-93.1949069,Chiapas,Tuxtla Gutiérrez,"torre de Petróleos Mexicanos,  oficinas de la Secretaría de Educación de Chiapas, de la Subsecretaría de Educación Federalizada en Tuxtla y casetas de cobro",0,0,0,0,1,3,Varios,Varios,Varios
+sí,3,16.7690307,-93.1954269,Chiapas,Tuxtla Gutiérrez,carretera Chiapas-Tuxtla Gutierrez,0,0,0,0,1,2,Varios,Varios,Varios
+sí,1,16.7708203,-93.3610484,Chiapas,Ocozocoautla de Espinosa,Crucero Llano San Juan,1,0,0,0,0,5,Bloqueo,Bloqueo,Bloqueo
+sí,3,16.7709639,-99.7726376,Guerrero,Acapulco de Juárez,Forum de Mundo Imperial,1,0,1,0,0,2,Varios,Varios,Varios
+sí,1,16.7728375,-93.1821396,Chiapas,Tuxtla Gutiérrez,salidas poniente y oriente de Tuxtla,1,0,0,0,1,2,Bloqueo,Bloqueo,Bloqueo
+sí,1,16.773058,-93.1302663,Chiapas,Tuxtla Gutiérrez,"instalaciones del Sistema Chiapaneco de Radio, Televisión y Cinematografía",0,0,0,0,0,1,Otro,Toma de instalaciones,Toma de instalaciones
+sí,2,16.7758582,-93.1120885,Chiapas,Tuxtla Gutiérrez,Palacio de Gobierno,0,1,0,1,1,3,Varios,Varios,Varios
+sí,2,16.7759944,-93.1143033,Chiapas,Tuxtla Gutiérrez,accesos a Tuxtla Gutiérrez y palacio de gobierno,1,0,0,0,1,5,Varios,Varios,Varios
+sí,1,16.7830682,-93.0984616,Chiapas,Tuxtla Gutiérrez,Calzada el sumidero,0,1,1,0,1,5,Plantón,Plantón,Plantón
+sí,1,16.7837518,-99.7918551,Guerrero,Acapulco de Juárez,Boulevard de las naciones,0,0,1,0,0,2,Marcha,Marcha,Marcha
+sí,4,16.7878012,-93.1249908,Chiapas,Tuxtla Gutiérrez,La Pochota,1,0,0,0,0,2,Varios,Varios,Varios
+sí,1,16.8141813,-99.6711542,Guerrero,Acapulco de Juárez,"Carretera federal, San Pedro Cacahuatepec",1,0,0,0,0,1,Bloqueo,Bloqueo,Bloqueo
+sí,1,16.84461,-99.8514275,Guerrero,Acapulco de Juárez,PEMEX,0,0,1,1,0,2,Marcha,Marcha,Marcha
+sí,1,16.8493864,-99.9062021,Guerrero,Acapulco de Juárez,Secretaría de Finanzas y Administración,0,0,0,1,1,2,Mitin,Mitin,Mitin
+sí,1,16.8498878,-99.9088614,Guerrero,Acapulco de Juárez,Ayuntamiento de Acapulco,0,0,0,0,0,2,Otro,Toma de instalaciones,Toma de instalaciones
+sí,4,16.8499377,-99.9087585,Guerrero,Acapulco de Juárez,Palacio Municipal,0,0,0,0,0,1,Varios,Varios,Varios
+sí,1,16.8512175,-99.9101375,Guerrero,Acapulco de Juárez,Secretaría de Educación,0,0,0,0,1,1,Paro de labores,Paro de labores,Paro de labores
+sí,1,16.8543002,-99.85415,Guerrero,Acapulco de Juárez,Centro Internacional Acapulco (CIA),0,0,0,1,0,1,Mitin,Mitin,Mitin
+sí,1,16.8543002,-99.85415,Guerrero,Acapulco de Juárez,Centro Internacional Acapulco (CIA),0,0,1,1,0,2,Marcha,Marcha,Marcha
+sí,5,16.8583635,-99.8899792,Guerrero,Acapulco de Juárez,Av. Costera Miguel Alemán,0,0,1,0,0,2,Varios,Varios,Varios
+sí,1,16.8603999,-99.8735383,Guerrero,Acapulco de Juárez,Centros comerciales Gran Plaza y Galerías Diana,0,0,0,0,0,1,Otro,Toma de instalaciones,Toma de instalaciones
+sí,1,16.8795506,-95.0441957,Oaxaca,Matías Romero,Plaza Municipal,0,0,0,0,0,1,Otro,Caravana,Caravana
+sí,1,16.8881332,-99.836958,Guerrero,Acapulco de Juárez,Terminal de Autobuses Estrella de Oro,0,0,0,0,0,1,Otro,Toma de instalaciones,Toma de instalaciones
+sí,2,16.9170209,-99.8214965,Guerrero,Acapulco de Juárez,Carretera Federal México-Acapulco,1,0,1,0,0,4,Varios,Varios,Varios
+sí,1,16.9249633,-99.8085863,Guerrero,Acapulco de Juárez,Autopista del Sol México-Acapulco,0,0,1,1,0,2,Marcha,Marcha,Marcha
+sí,4,16.9257212,-99.8073674,Guerrero,Acapulco de Juárez,caseta de La Venta,0,0,0,0,0,2,Varios,Varios,Varios
+sí,1,16.9610963,-96.4766235,Oaxaca,Tlacolula de Matamoros,Carretera,1,0,0,0,0,1,Bloqueo,Bloqueo,Bloqueo
+sí,1,16.9648872,-99.0997984,Guerrero,Ayutla de los Libres,Zócalo,0,0,1,1,0,2,Marcha,Marcha,Marcha
+sí,1,16.965138,-99.0974749,Guerrero,Ayutla de los Libres,Palacio Municipal,0,0,1,0,0,1,Marcha,Marcha,Marcha
+sí,1,16.977567,-99.1127873,Guerrero,Ayutla de los Libres,Carretera Tierra Colorada,1,0,0,0,0,1,Bloqueo,Bloqueo,Bloqueo
+sí,1,17.0371708,-92.1953249,Chiapas,Chilón,comunidad Bachajón,0,0,1,0,0,1,Marcha,Marcha,Marcha
+sí,3,17.0599023,-96.7277074,Oaxaca,Oaxaca de Juárez,palacio de gobierno,1,0,0,0,0,3,Varios,Varios,Varios
+sí,3,17.0605312,-96.7274808,Oaxaca,Oaxaca de Juárez,Zócalo de Oaxaca,0,0,1,1,0,2,Varios,Varios,Varios
+sí,1,17.0646742,-96.6987739,Oaxaca,Santa Lucía del Camino,Calle Calicanto,0,0,0,1,0,2,Mitin,Mitin,Mitin
+sí,1,17.0692746,-96.6951709,Oaxaca,Oaxaca de Juárez,SCT y Sedesol,0,0,0,0,0,1,Otro,Toma de instalaciones,Toma de instalaciones
+sí,1,17.0715957,-96.7198047,Oaxaca,Oaxaca de Juárez,avenidas Niños Héroes y Juárez,0,0,0,0,0,2,Otro,Otro,Destrucción de bienes públicos
+sí,1,17.0769663,-96.7150908,Oaxaca,Oaxaca de Juárez,Juzgados Federales del Tercer Circuito,1,0,1,0,0,2,Bloqueo,Bloqueo,Bloqueo
+sí,1,17.0772194,-96.7162666,Oaxaca,Oaxaca de Juárez,IEEPO,0,1,0,0,0,2,Plantón,Plantón,Plantón
+sí,1,17.0802854,-96.7122537,Oaxaca,Oaxaca de Juárez,Comisión Nacional para el Desarrollo de los Pueblos Indígenas (CDI),0,0,0,0,0,1,Otro,Toma de instalaciones,Toma de instalaciones
+sí,1,17.1372107,-93.5960313,Chiapas,Tuxtla Gutiérrez,puentes Chiapas y Talisman,1,0,1,0,0,2,Bloqueo,Bloqueo,Bloqueo
+sí,1,17.1473132,-96.7846962,Oaxaca,Oaxaca de Juárez,Carretera Oaxaca-Cuacnopalan,0,0,1,0,0,1,Marcha,Marcha,Marcha
+sí,1,17.1934221,-98.4553642,Guerrero,Cochoapa el Grande,Gasolinera,0,0,1,0,0,2,Marcha,Marcha,Marcha
+sí,1,17.223012,-100.6333418,Guerrero,Técpan de Galeana,Oficinas de finanzas del gobierno estatal,0,0,0,0,1,2,Paro de labores,Paro de labores,Paro de labores
+sí,1,17.2273084,-92.0739806,Chiapas,Ocosingo,Carretera Ocosingo-Palenque,1,0,0,0,0,1,Bloqueo,Bloqueo,Bloqueo
+sí,1,17.5121764,-99.4803355,Guerrero,Chilpancingo de los Bravo,vías que comunican la zona sur de Chilpancingo,1,0,0,0,0,1,Bloqueo,Bloqueo,Bloqueo
+sí,2,17.5153399,-99.5169026,Guerrero,Chilpancingo de los Bravo,Carretera Federal México-Acapulco,1,0,1,1,0,5,Varios,Varios,Varios
+sí,1,17.5189008,-99.4876921,Guerrero,Chilpancingo de los Bravo,Oficinas de la sección 14 del SNTE,0,1,0,0,0,3,Plantón,Plantón,Plantón
+sí,1,17.521356,-93.1188939,Chiapas,Pichucalco,Vías de comunicación con Reforma,1,0,0,0,0,1,Bloqueo,Bloqueo,Bloqueo
+sí,1,17.5260806,-99.4916972,Guerrero,Chilpancingo de los Bravo,PGJE,1,0,1,0,0,3,Bloqueo,Bloqueo,Bloqueo
+sí,4,17.5283597,-99.4949614,Guerrero,Chilpancingo de los Bravo,Palacio de Gobierno,0,0,0,1,0,2,Varios,Varios,Varios
+sí,1,17.5307124,-99.4965209,Guerrero,Chilpancingo de los Bravo,Monumento a El Caudillo del Sur,0,0,0,1,0,1,Mitin,Mitin,Mitin
+sí,1,17.5309347,-101.2641127,Guerrero,Benito Juárez,Carretera Acapulco-Zihuatanejo,1,0,0,0,0,1,Bloqueo,Bloqueo,Bloqueo
+sí,1,17.532822,-99.4912793,Guerrero,Chilpancingo de los Bravo,Comisión Nacional para el Desarrollo de los Pueblos Indígenas (CDI),0,0,0,0,0,1,Otro,Toma de instalaciones,Toma de instalaciones
+sí,1,17.5334361,-99.4924182,Guerrero,Chilpancingo de los Bravo,Oficinas alternas de la Secretaría de Educación del Estado,0,0,0,0,1,3,Paro de labores,Paro de labores,Paro de labores
+sí,1,17.5334493,-99.4945475,Guerrero,Chilpancingo de los Bravo,Secretaría de Educación,0,0,0,0,1,1,Paro de labores,Paro de labores,Paro de labores
+sí,9,17.5347257,-99.4991612,Guerrero,Chilpancingo de los Bravo,Congreso,0,1,1,0,0,2,Varios,Varios,Varios
+sí,1,17.5410646,-99.5008703,Guerrero,Chilpancingo de los Bravo,"Secretaría de Desarrollo Agrario, Territorial y Urbano (Sedatu)",0,0,1,0,0,2,Marcha,Marcha,Marcha
+sí,1,17.5417714,-99.4982631,Guerrero,Chilpancingo de los Bravo,Subsecretaría de Finanzas de la Secretaría de Educación en Guerrero (SEG),0,0,0,0,1,2,Paro de labores,Paro de labores,Paro de labores
+sí,1,17.5431695,-98.5686205,Guerrero,Tlapa de Comonfort,Secretaría de Educación,0,0,0,0,1,1,Paro de labores,Paro de labores,Paro de labores
+sí,1,17.5434008,-99.5023442,Guerrero,Chilpancingo de los Bravo,centro comercial ,1,0,0,0,0,1,Bloqueo,Bloqueo,Bloqueo
+sí,1,17.5467731,-98.5793825,Guerrero,Tlapa de Comonfort,Centro Comercial,0,0,0,0,0,1,Otro,Toma de instalaciones,Toma de instalaciones
+sí,1,17.5472537,-98.5821894,Guerrero,Tlapa de Comonfort,Zócalo,0,0,1,0,0,1,Marcha,Marcha,Marcha
+sí,1,17.5476482,-99.5103189,Guerrero,Chilpancingo de los Bravo,Coca-Cola,0,0,0,1,0,4,Mitin,Mitin,Mitin
+sí,1,17.5513515,-99.5077045,Guerrero,Chilpancingo de los Bravo,INE,0,0,1,0,0,2,Marcha,Marcha,Marcha
+sí,1,17.5517156,-99.500615,Guerrero,Chilpancingo de los Bravo,Supermercados,1,0,0,0,0,1,Bloqueo,Bloqueo,Bloqueo
+sí,5,17.5521173,-99.5016144,Guerrero,Chilpancingo de los Bravo,Zócalo,0,0,1,1,0,4,Varios,Varios,Varios
+sí,1,17.5521719,-99.5036174,Guerrero,Chilpancingo de los Bravo,Plaza cívica Primer Congreso de Anáhuac,0,1,0,1,0,5,Plantón,Plantón,Plantón
+sí,1,17.5534397,-99.41346,Guerrero,Tixtla de Guerrero,Escuela Normal Rural Raúl Isidro Burgos(Ayotzinapa),0,0,0,0,0,2,Otro,Caravana,Caravana
+sí,1,17.5543126,-99.5033074,Guerrero,Chilpancingo de los Bravo,oficinas del PAN,0,0,0,1,1,4,Mitin,Mitin,Mitin
+sí,1,17.5560533,-98.5510226,Guerrero,Tlapa de Comonfort,Gasolinera a la salida de Tlapa,0,0,1,0,0,4,Marcha,Marcha,Marcha
+sí,2,17.5668034,-99.4004781,Guerrero,Tixtla de Guerrero,Palacio Municipal,0,0,1,1,0,2,Varios,Varios,Varios
+sí,1,17.5673661,-99.4043958,Guerrero,Tixtla de Guerrero,barrio El Fortín,0,0,1,0,0,1,Marcha,Marcha,Marcha
+sí,1,17.5828075,-99.5169515,Michoacán,Lázaro Cárdenas,zona industrial,1,0,0,0,1,4,Bloqueo,Bloqueo,Bloqueo
+sí,5,17.5934611,-99.5181828,Guerrero,Chilpancingo de los Bravo,Autopista del Sol México-Acapulco,1,0,1,0,0,2,Varios,Varios,Varios
+sí,1,17.5978357,-99.3846361,Guerrero,Tixtla de Guerrero,Carretera Tixtla-Apango,1,0,0,0,0,2,Bloqueo,Bloqueo,Bloqueo
+sí,1,17.9794593,-102.1784519,Michoacán,Lázaro Cárdenas,Acceso portuario,1,0,0,0,1,2,Bloqueo,Bloqueo,Bloqueo
+sí,1,17.9870321,-92.9221272,Tabasco,Centro,Congreso,0,0,0,1,0,1,Mitin,Mitin,Mitin
+sí,1,17.987091,-92.9398245,Tabasco,Centro,explanada de la Secretaría de Educación,1,1,0,0,1,3,Bloqueo,Bloqueo,Bloqueo
+sí,1,17.9910445,-92.9311355,Tabasco,Centro,Quinta Grijalva,0,1,0,1,0,3,Plantón,Plantón,Plantón
+sí,1,17.9959948,-92.921224,Tabasco,Centro,Comisión Nacional para el Desarrollo de los Pueblos Indígenas (CDI),0,0,0,0,0,1,Otro,Toma de instalaciones,Toma de instalaciones
+sí,1,18.2464086,-100.7837548,Guerrero,Coyuca de Catalán,Las Cruces,0,0,0,0,0,2,Otro,Otro,Toma de casetas
+sí,1,18.3375985,-99.5306601,Guerrero,Iguala de la Independencia,Palacio de Gobierno,0,0,1,1,0,7,Marcha,Marcha,Marcha
+sí,1,18.3445188,-99.5381982,Guerrero,Iguala de la Independencia,plaza Tres Garantías,0,0,1,0,0,1,Marcha,Marcha,Marcha
+sí,1,18.3512869,-99.5380801,Guerrero,Iguala de la Independencia,Av. Álvarez,0,0,0,1,0,3,Mitin,Mitin,Mitin
+sí,1,18.6673813,-99.1969131,Morelos,Zacatepec,Ingenio Emiliano Zapata,0,0,0,0,1,2,Paro de labores,Paro de labores,Paro de labores
+sí,1,18.8502885,-99.2029242,Morelos,Emiliano Zapata,Universidad Tecnológica,0,0,0,0,0,1,Otro,Pacífico no especificado,Pacífico no especificado
+sí,1,18.8639883,-96.9196869,Veracruz,Córdoba,Ingenio San Miguelito,1,0,0,0,1,2,Bloqueo,Bloqueo,Bloqueo
+sí,1,18.9213585,-99.243441,Morelos,Cuernavaca,centro,0,0,1,0,1,2,Marcha,Marcha,Marcha
+sí,2,18.9218001,-99.2364764,Morelos,Cuernavaca,Zócalo,0,0,1,0,0,1,Varios,Varios,Varios
+sí,1,18.9231475,-99.2393879,Morelos,Cuernavaca,Comisión Nacional para el Desarrollo de los Pueblos Indígenas (CDI),0,0,0,0,0,1,Otro,Toma de instalaciones,Toma de instalaciones
+sí,3,18.9238086,-99.2383318,Morelos,Cuernavaca,Congreso Local,0,1,0,0,0,1,Varios,Varios,Varios
+sí,1,18.9521596,-97.8938135,Puebla,Tepeaca,Carretera,1,0,0,0,0,1,Bloqueo,Bloqueo,Bloqueo
+sí,1,18.9652743,-99.2469885,Morelos,Cuernavaca,Glorieta de Emiliano Zapata,0,0,1,1,0,2,Marcha,Marcha,Marcha
+sí,1,18.9822113,-99.2395748,Morelos,Cuernavaca,Universidad Autónoma del Estado de Morelos,0,0,0,0,1,1,Paro de labores,Paro de labores,Paro de labores
+sí,1,19.0406852,-98.2122036,Puebla,Puebla,Comisión Nacional para el Desarrollo de los Pueblos Indígenas (CDI),0,0,0,0,0,1,Otro,Toma de instalaciones,Toma de instalaciones
+sí,1,19.0438444,-98.2004204,Puebla,Puebla,Zócalo,0,0,1,0,0,1,Marcha,Marcha,Marcha
+sí,1,19.0439928,-98.1996731,Puebla,Puebla,Palacio de Gobierno,0,0,1,0,0,1,Marcha,Marcha,Marcha
+sí,1,19.0455016,-98.1900858,Puebla,Puebla,Casa Aguayo,0,0,0,0,0,1,Otro,Otro,Acciones dramáticas
+sí,1,19.1644399,-96.1215893,Veracruz,Veracruz,Arena Veracruz,1,0,0,0,0,1,Bloqueo,Bloqueo,Bloqueo
+sí,1,19.1920886,-96.1438335,Veracruz,Veracruz,Ex Penal Allende,0,0,0,1,0,1,Mitin,Mitin,Mitin
+sí,1,19.2428499,-103.7302816,Colima,Colima,Palacio de Gobierno,0,0,1,1,0,3,Marcha,Marcha,Marcha
+sí,1,19.2823786,-98.2406547,Tlaxcala,Tlaxcala,"carreteras federal Tlaxcala-Puebla, la autopista a México, en el tramo San Martín Texmelucan-El Molinito, y la vía corta Santa Ana Chiautempan-Puebla.",1,0,0,0,0,1,Bloqueo,Bloqueo,Bloqueo
+sí,1,19.2884844,-99.6709961,Estado de México,Toluca,Comisión Nacional para el Desarrollo de los Pueblos Indígenas (CDI),0,0,0,0,0,1,Otro,Toma de instalaciones,Toma de instalaciones
+sí,1,19.2886313,-99.5559116,Estado de México,Toluca,Plaza Sendero,0,0,1,0,0,1,Marcha,Marcha,Marcha
+sí,1,19.2887653,-99.1670637,Ciudad de México,Tlalpan,Explanada delegacional.,0,1,0,0,0,1,Plantón,Plantón,Plantón
+sí,1,19.2935165,-99.6593984,Estado de México,Toluca,Palacio de Gobierno,0,0,1,0,0,1,Marcha,Marcha,Marcha
+sí,1,19.2962768,-98.8728788,Estado de México,Chalco,Caseta San Marcos Huixtoco,0,0,0,0,0,1,Otro,Otro,Toma de casetas
+sí,1,19.3133948,-98.9485974,Estado de México,Chalco,Autopista México-Puebla,1,0,1,0,1,5,Bloqueo,Bloqueo,Bloqueo
+sí,1,19.3175318,-98.2400857,Tlaxcala,Tlaxcala,Palacio de Gobierno,0,0,0,1,0,1,Mitin,Mitin,Mitin
+sí,1,19.3182269,-99.1797214,Ciudad de México,Coyoacán,Facultad de Ciencias Políticas y Sociales,0,0,0,0,0,1,Otro,Caravana,Caravana
+sí,1,19.3189515,-98.2423049,Tlaxcala,Tlaxcala,Congreso,0,0,0,0,0,1,Otro,Toma de instalaciones,Toma de instalaciones
+sí,1,19.3207647,-99.2208751,Ciudad de México,La Magdalena Contreras,"lateral de Periférico, puente de Luis Cabrera",1,0,0,0,0,1,Bloqueo,Bloqueo,Bloqueo
+sí,1,19.3216716,-98.2693354,Tlaxcala,Totolac,Autopista Tlaxcala-Texmelucan,1,0,1,0,0,2,Bloqueo,Bloqueo,Bloqueo
+sí,12,19.3731869,-99.1625543,Ciudad de México,Benito Juárez,SAGARPA,0,0,0,0,0,1,Varios,Varios,Varios
+sí,2,19.3830871,-99.1667079,Ciudad de México,Benito Juárez,STPS,0,0,1,0,0,2,Varios,Varios,Varios
+sí,1,19.3888888,-99.1711786,Ciudad de México,Benito Juárez,ASSA,0,0,1,0,0,3,Marcha,Marcha,Marcha
+sí,1,19.3966592,-99.2239052,Ciudad de México,Miguel Hidalgo,Av. Constituyentes,1,1,1,0,0,4,Bloqueo,Bloqueo,Bloqueo
+sí,2,19.3987363,-99.1374087,Ciudad de México,Benito Juárez,Administración Federal de Servicios Educativos del Distrito Federal de la Secretaría de Educación Pública (SEP),0,0,1,1,1,3,Varios,Varios,Varios
+sí,1,19.3987641,-99.137634,Ciudad de México,Cuauhtémoc,Zócalo,0,0,1,0,0,1,Marcha,Marcha,Marcha
+sí,1,19.3990674,-99.135041,Ciudad de México,Iztacalco,Instalaciones de Morena,0,1,0,0,0,1,Plantón,Plantón,Plantón
+sí,1,19.4061848,-99.1804047,Ciudad de México,Coyoacán,Sede Nacional del PRD,0,1,0,0,0,2,Plantón,Plantón,Plantón
+sí,1,19.413295,-99.1805064,Ciudad de México,Cuauhtémoc,PROFECO,0,0,0,1,0,1,Mitin,Mitin,Mitin
+sí,2,19.4156193,-99.193441,Ciudad de México,Miguel Hidalgo,Residencia Oficial de Los Pinos,0,0,1,0,0,1,Varios,Varios,Varios
+sí,1,19.4232306,-99.1736921,Ciudad de México,Álvaro Obregón,Instalaciones centrales del IMSS,0,1,1,0,0,2,Plantón,Plantón,Plantón
+sí,1,19.4248945,-99.1495818,Ciudad de México,Cuauhtémoc,PGJDF,0,0,0,1,0,1,Mitin,Mitin,Mitin
+sí,1,19.4256999,-99.1960619,Ciudad de México,Cuauhtémoc,Av. Reforma,1,1,1,0,0,3,Bloqueo,Bloqueo,Bloqueo
+sí,2,19.4258377,-99.1756329,Ciudad de México,Cuauhtémoc,PGR,0,0,1,1,0,3,Varios,Varios,Varios
+sí,1,19.4260082,-99.1884673,Ciudad de México,Miguel Hidalgo,Museo Nacional de Antropología,0,0,1,0,0,2,Marcha,Marcha,Marcha
+sí,2,19.4263105,-99.1522596,Ciudad de México,Cuauhtémoc,Televisa Chapultepec,0,0,0,1,0,2,Varios,Varios,Varios
+sí,2,19.4270219,-99.1681465,Ciudad de México,Cuauhtémoc,Ángel de la Independencia,0,0,0,0,0,2,Varios,Varios,Varios
+sí,1,19.4274273,-99.1652715,Ciudad de México,Cuauhtémoc,Secretaría de Economía,0,0,1,0,0,1,Marcha,Marcha,Marcha
+sí,3,19.4276433,-99.1166206,Ciudad de México,Venustiano Carranza,Palacio de Justicia Federal,0,0,1,1,0,2,Varios,Varios,Varios
+sí,2,19.4283056,-99.1684997,Ciudad de México,Cuauhtémoc,Embajada de Estados Unidos de América,0,0,1,0,0,1,Varios,Varios,Varios
+sí,2,19.428809,-99.1539184,Ciudad de México,Cuauhtémoc,SEDESOL,0,0,0,1,0,1,Varios,Varios,Varios
+sí,1,19.4289268,-99.2084725,Ciudad de México,Miguel Hidalgo,Instalaciones de la ONU,0,1,0,0,0,2,Plantón,Plantón,Plantón
+sí,1,19.4289287,-99.1882916,Ciudad de México,Miguel Hidalgo,Embajada de Canadá,0,0,0,1,0,2,Mitin,Mitin,Mitin
+sí,1,19.4292839,-99.2030048,Ciudad de México,Miguel Hidalgo,Oficinas de Grupo México,0,0,0,1,0,1,Mitin,Mitin,Mitin
+sí,21,19.4294723,-99.1629755,Ciudad de México,Cuauhtémoc,SEGOB,0,0,0,1,0,1,Varios,Varios,Varios
+sí,1,19.4295494,-99.1665723,Ciudad de México,Cuauhtémoc,Bolsa Mexicana de Valores,0,1,1,0,0,2,Plantón,Plantón,Plantón
+sí,1,19.4298025,-99.1494718,Ciudad de México,Cuauhtémoc,Ciudadela,0,1,1,0,0,3,Plantón,Plantón,Plantón
+sí,2,19.430283,-99.1196887,Ciudad de México,Venustiano Carranza,Palacio Legislativo de San Lázaro,0,0,0,1,0,2,Varios,Varios,Varios
+sí,2,19.4311891,-99.1339101,Ciudad de México,Venustiano Carranza,Suprema Corte de Justicia de la Nación,0,0,0,1,0,1,Varios,Varios,Varios
+sí,2,19.4319655,-99.1183717,Ciudad de México,Venustiano Carranza,Cámara de Diputados,0,0,1,0,0,1,Varios,Varios,Varios
+sí,24,19.4323872,-99.1335062,Ciudad de México,Cuauhtémoc,Zócalo,0,0,0,1,0,2,Varios,Varios,Varios
+sí,8,19.4326011,-99.1598017,Ciudad de México,Cuauhtémoc,Senado de la República,1,0,0,1,0,2,Varios,Varios,Varios
+sí,3,19.4327388,-99.1562463,Ciudad de México,Cuauhtémoc,SEDATU,0,0,0,0,0,1,Varios,Varios,Varios
+sí,1,19.4328757,-99.133536,Ciudad de México,Cuauhtémoc,Palacio Nacional,0,0,0,1,0,1,Mitin,Mitin,Mitin
+sí,1,19.4330014,-99.1548923,Ciudad de México,Cuauhtémoc,Glorieta de Colón,0,0,1,1,0,2,Marcha,Marcha,Marcha
+sí,1,19.4342656,-99.1430653,Ciudad de México,Cuauhtémoc,Eje Central Lázaro Cárdenas,0,0,0,0,0,1,Otro,Marcha,Marcha anual
+sí,4,19.4351178,-99.146319,Ciudad de México,Cuauhtémoc,Hemiciclo a Juarez.,0,0,1,1,0,2,Varios,Varios,Varios
+sí,2,19.435205,-99.1433887,Ciudad de México,Cuauhtémoc,Palacio de Bellas Artes,1,1,1,0,0,4,Varios,Varios,Varios
+sí,1,19.4356756,-99.1495764,Ciudad de México,Cuauhtémoc,Antimonumento de los 43 normalistas desaparecidos,0,0,1,1,0,4,Marcha,Marcha,Marcha
+sí,1,19.4358138,-99.1416986,Ciudad de México,Cuauhtémoc,Palacio de Minería,0,0,0,1,0,1,Mitin,Mitin,Mitin
+sí,5,19.4360812,-99.074097,Ciudad de México,Venustiano Carranza,Aeropuerto Internacional de la Ciudad de México.,0,0,1,0,0,1,Varios,Varios,Varios
+sí,8,19.4362136,-99.1568185,Ciudad de México,Cuauhtémoc,Monumento a la Revolución,0,0,0,0,0,1,Varios,Varios,Varios
+sí,3,19.4370983,-99.1338283,Ciudad de México,Cuauhtémoc,Secretaría de Educación Pública,0,0,1,1,0,2,Varios,Varios,Varios
+sí,1,19.4384485,-99.1511504,Ciudad de México,Cuauhtémoc,Sede nacional del PRI,0,0,1,0,0,2,Marcha,Marcha,Marcha
+sí,1,19.4502868,-99.2197041,Ciudad de México,Miguel Hidalgo,Corporativo Walmart Corporativo Walmart de México y Centroamérica,0,0,0,1,0,1,Mitin,Mitin,Mitin
+sí,1,19.4516942,-99.1397806,Ciudad de México,Cuauhtémoc,Plaza de las Tres Culturas,1,0,1,1,0,3,Bloqueo,Bloqueo,Bloqueo
+sí,1,19.4817696,-90.6768603,Campeche,Champotón,Ingenio La Joya,0,0,0,0,1,2,Paro de labores,Paro de labores,Paro de labores
+sí,1,19.4830551,-98.9694452,Estado de México,Texcoco,Autopista Peñón-Texcoco,1,0,0,0,0,1,Bloqueo,Bloqueo,Bloqueo
+sí,3,19.5060432,-98.885339,Estado de México,Texcoco,Penal Molino de Flores,0,1,0,0,0,1,Varios,Varios,Varios
+sí,1,19.5293878,-96.9208354,Veracruz,Xalapa,Comisión Nacional para el Desarrollo de los Pueblos Indígenas (CDI) ,0,0,0,0,0,1,Otro,Toma de instalaciones,Toma de instalaciones
+sí,1,19.5521791,-98.9163909,Estado de México,Atenco,Explanada municipal,0,0,0,0,0,1,Otro,Caravana,Caravana
+sí,1,19.5521845,-98.9185212,Estado de México,Atenco,Plaza Principal de Atenco,0,1,1,0,0,3,Plantón,Plantón,Plantón
+sí,1,19.5630109,-99.0505997,Estado de México,Ecatepec de Morelos,Escuela Héroes de Churubusco,0,0,0,0,0,2,Otro,Marcha,Marcha anual
+sí,1,19.5993409,-99.0491156,Estado de México,Ecatepec de Morelos,Explanada de San Cristóbal,0,0,0,1,0,2,Mitin,Mitin,Mitin
+sí,1,19.6428076,-99.1787573,Estado de México,Tultitlán,puente vehicular San Antonio,0,0,1,1,0,3,Marcha,Marcha,Marcha
+sí,1,19.679647,-101.2037997,Michoacán,Morelia,Casa de gobierno,1,0,0,0,1,2,Bloqueo,Bloqueo,Bloqueo
+sí,1,19.6874956,-101.2898311,Michoacán,Morelia,Caseta autopista Occidente,1,1,0,0,0,3,Bloqueo,Bloqueo,Bloqueo
+sí,3,19.6896469,-101.2066326,Michoacán,Morelia,Universidad Michoacana de San Nicolás de Hidalgo,0,0,0,0,0,1,Varios,Varios,Varios
+sí,3,19.7033704,-101.1942329,Michoacán,Morelia,Palacio de Gobierno,0,0,1,1,0,2,Varios,Varios,Varios
+sí,3,19.7033957,-101.1962703,Michoacán,Morelia,Calles del centro,0,0,1,0,0,1,Varios,Varios,Varios
+sí,1,19.7196815,-101.1745146,Michoacán,Morelia,Comisión Nacional para el Desarrollo de los Pueblos Indígenas (CDI),0,0,0,0,0,1,Otro,Toma de instalaciones,Toma de instalaciones
+sí,1,19.9739785,-98.8620821,Hidalgo,Zapotlán de Juárez,Alcaldía municipal,0,0,0,0,0,1,Otro,Toma de instalaciones,Toma de instalaciones
+sí,1,20.0950567,-98.7596319,Hidalgo,Pachuca de Soto,Comisión Nacional para el Desarrollo de los Pueblos Indígenas (CDI),0,0,0,0,0,1,Otro,Toma de instalaciones,Toma de instalaciones
+sí,1,20.1224497,-98.7390169,Hidalgo,Pachuca de Soto,Palacio de Gobierno,0,1,0,0,0,2,Plantón,Plantón,Plantón
+sí,1,20.1275473,-98.7322303,Hidalgo,Pachuca de Soto,Quiosco de Plaza Independencia,0,1,0,0,0,1,Plantón,Plantón,Plantón
+sí,1,20.3314818,-102.7746894,Jalisco,Ocotlán,Autopista Guadalajara-México,1,0,0,0,0,1,Bloqueo,Bloqueo,Bloqueo
+sí,1,20.589021,-100.4018238,Querétaro,Querétaro,Comisión Nacional para el Desarrollo de los Pueblos Indígenas (CDI),0,0,0,0,0,1,Otro,Toma de instalaciones,Toma de instalaciones
+sí,1,20.5919212,-100.3973391,Querétaro,Querétaro,Jardín Guerrero,1,0,0,0,0,1,Bloqueo,Bloqueo,Bloqueo
+sí,1,20.5931198,-100.3929453,Querétaro,Querétaro,andador 5 de Mayo,0,0,0,0,0,2,Otro,Otro,Acciones dramáticas
+sí,1,20.6762296,-103.3491433,Jalisco,Guadalajara,plaza de armas,0,0,0,1,0,1,Mitin,Mitin,Mitin
+sí,1,20.9670355,-89.6237866,Yucatán,Mérida,Plaza Principal de Mérida,0,0,1,1,0,2,Marcha,Marcha,Marcha
+sí,1,20.9786997,-89.6447507,Yucatán,Mérida,Sede del Poder Judicial,0,0,0,1,0,1,Mitin,Mitin,Mitin
+sí,1,20.9970344,-101.2810982,Guanajuato,Guanajuato,Congreso,0,0,0,0,0,1,Otro,Pacífico no especificado,Pacífico no especificado
+sí,1,21.0201305,-101.6431772,Guanajuato,León,"Puente a Santa Ana, Carretera 46",1,0,0,0,0,1,Bloqueo,Bloqueo,Bloqueo
+sí,1,21.122883,-101.6853166,Guanajuato,León,Plaza Fundadores,0,0,1,0,0,1,Marcha,Marcha,Marcha
+sí,1,21.1394583,-98.4207221,Hidalgo,Huejutla de Reyes,Cabecera municipal,0,0,1,0,0,1,Marcha,Marcha,Marcha
+sí,1,21.286577,-100.7325831,Guanajuato,San Luis de la Paz,Carretera 57,1,0,0,0,0,1,Bloqueo,Bloqueo,Bloqueo
+sí,1,21.5014486,-104.8896089,Nayarit,Tepic,Ingenios Menchaca y Puga,0,0,0,0,1,2,Paro de labores,Paro de labores,Paro de labores
+sí,1,21.5072543,-104.8931072,Nayarit,Tepic,Plaza Bicentenario,0,0,1,0,0,1,Marcha,Marcha,Marcha
+sí,1,21.8468978,-102.7208376,Aguascalientes,Calvillo,Palacio Municipal,0,1,0,0,0,1,Plantón,Plantón,Plantón
+sí,2,22.1476046,-100.9791577,San Luis Potosí,San Luis Potosí,Congreso,1,0,0,0,0,1,Varios,Varios,Varios
+sí,1,22.1503757,-101.0163215,San Luis Potosí,San Luis Potosí,Comisión Nacional para el Desarrollo de los Pueblos Indígenas (CDI),0,0,0,0,0,1,Otro,Toma de instalaciones,Toma de instalaciones
+sí,1,22.7710219,-102.6094657,Zacatecas,Zacatecas,INE,0,0,0,1,0,3,Mitin,Mitin,Mitin
+sí,1,22.7714771,-102.5823978,Zacatecas,Zacatecas,Centro histórico,0,0,1,0,0,1,Marcha,Marcha,Marcha
+sí,1,22.7744072,-102.5770845,Zacatecas,Zacatecas,Congreso zacatecano,1,0,0,0,0,1,Bloqueo,Bloqueo,Bloqueo
+sí,1,22.7760702,-102.5740353,Zacatecas,Zacatecas,Plaza de Armas,0,0,1,1,0,2,Marcha,Marcha,Marcha
+sí,1,22.8992623,-102.6590278,Zacatecas,Zacatecas,Secretaría del Campo (SECAMPO),1,0,0,0,0,1,Bloqueo,Bloqueo,Bloqueo
+sí,1,23.0551934,-109.6957592,Baja California Sur,Los Cabos,"plaza Antonio Mijares, de San José del Cabo",1,1,0,0,1,4,Bloqueo,Bloqueo,Bloqueo
+sí,1,24.0604524,-104.6115646,Durango,Durango,SAGARPA,0,0,0,0,0,1,Otro,Toma de instalaciones,Toma de instalaciones
+sí,1,24.1486768,-110.3086667,Baja California Sur,La Paz,Palacio de Gobierno,0,0,1,0,0,1,Marcha,Marcha,Marcha
+sí,2,24.6359163,-101.6985046,Zacatecas,Mazapil,Mina Camino Rojo,0,1,0,0,0,1,Varios,Varios,Varios
+sí,1,24.775579,-107.4626175,Sinaloa,Culiacán,SAGARPA,0,1,0,0,0,2,Plantón,Plantón,Plantón
+sí,1,25.432741,-100.9967152,Coahuila,Saltillo,Congreso,1,0,1,0,0,2,Bloqueo,Bloqueo,Bloqueo
+sí,1,25.4341102,-101.0026486,Coahuila,Saltillo,Blvd. Francisco Coss,1,0,0,0,0,1,Bloqueo,Bloqueo,Bloqueo
+sí,1,25.4627635,-101.0293598,Coahuila,Saltillo,Teatro de la Ciudad,0,0,0,1,0,1,Mitin,Mitin,Mitin
+sí,1,25.5481507,-103.4233523,Coahuila,Torreón,oficinas centrales de la Secretaría de Educación estatal,0,0,1,0,0,1,Marcha,Marcha,Marcha
+sí,1,25.6690688,-100.3110906,Nuevo León,Monterrey,Congreso,0,0,0,0,0,1,Otro,Otro,Acciones artísticas
+sí,1,25.6690858,-100.3131377,Nuevo León,Monterrey,Congreso,0,0,0,0,0,1,Otro,Toma de instalaciones,Toma de instalaciones
+sí,1,25.6723255,-100.3094079,Nuevo León,Monterrey,Palacio de Gobierno,0,0,1,0,0,1,Marcha,Marcha,Marcha
+sí,2,25.6723734,-100.3127192,Nuevo León,Monterrey,Explanada de los Héroes,1,0,1,0,1,4,Varios,Varios,Varios
+sí,1,25.8360337,-103.8368886,Durango,Tlahualilo,Mina La Platosa,0,1,0,0,1,3,Plantón,Plantón,Plantón
+sí,1,25.8876774,-97.5528994,Tamaulipas,Matamoros,"Sistemas Estructurales y Construcciones, SA de CV",0,0,0,0,1,1,Paro de labores,Paro de labores,Paro de labores
+sí,1,27.1285769,-104.9251417,Chihuahua,Jiménez,Oficinas de CFE,0,0,0,0,0,1,Toma de instalaciones,Toma de instalaciones,Toma de instalaciones
+sí,1,27.6811721,-105.1753404,Chihuahua,Camargo,Oficinas de CFE,0,0,0,0,0,1,Toma de instalaciones,Toma de instalaciones,Toma de instalaciones
+sí,1,28.1886255,-105.4758552,Chihuahua,Delicias,Oficinas de CFE,0,0,0,0,0,1,Toma de instalaciones,Toma de instalaciones,Toma de instalaciones
+sí,1,28.4109177,-106.8666349,Chihuahua,Cuauhtémoc,paso del tren de pasajeros ChihuahuaPacífico,1,0,0,0,0,1,Bloqueo,Bloqueo,Bloqueo
+sí,1,28.4125823,-106.8554916,Chihuahua,Cuauhtémoc,Oficinas de CFE,0,0,0,0,0,1,Toma de instalaciones,Toma de instalaciones,Toma de instalaciones
+sí,1,28.5779976,-106.1571178,Chihuahua,Chihuahua,Oficinas de CFE,0,0,0,0,0,2,Toma de instalaciones,Toma de instalaciones,Toma de instalaciones
+sí,1,28.6223075,-106.0729008,Chihuahua,Cuauhtémoc, tren Chihuahua-Los Mochis,1,0,0,0,0,1,Bloqueo,Bloqueo,Bloqueo
+sí,1,28.6404878,-106.085925,Chihuahua,Chihuahua,Plaza del maestro,0,0,0,0,0,1,Otro,Otro,Rodada
+sí,1,29.0734459,-110.9595778,Sonora,Hermosillo,Congreso,0,0,1,0,0,2,Marcha,Marcha,Marcha
+sí,1,29.091194,-111.0549115,Sonora,Hermosillo,Aeropuerto Internacional Ignacio L. Pesqueira García,0,1,1,1,0,3,Plantón,Plantón,Plantón
+sí,1,29.1913171,-107.4055916,Chihuahua,Namiquipa,Oficinas de CFE,0,0,0,0,0,1,Toma de instalaciones,Toma de instalaciones,Toma de instalaciones
+sí,1,29.845153,-107.4689615,Chihuahua,Buenaventura,Oficinas de CFE,0,0,0,0,0,1,Toma de instalaciones,Toma de instalaciones,Toma de instalaciones
+sí,1,30.425208,-107.916706,Chihuahua,Nuevo Casas Grandes,Oficinas de CFE,0,0,0,0,0,2,Toma de instalaciones,Toma de instalaciones,Toma de instalaciones
+sí,1,30.6138175,-106.5156836,Chihuahua,Ahumada,Oficinas de CFE,0,0,0,0,0,1,Toma de instalaciones,Toma de instalaciones,Toma de instalaciones
+sí,1,31.0365588,-110.1864296,Sonora,Cananea,Los Patos,0,1,0,0,0,2,Plantón,Plantón,Plantón
+sí,1,31.0980286,-107.9966978,Chihuahua,Ascensión,Oficinas de CFE,0,0,0,0,0,1,Toma de instalaciones,Toma de instalaciones,Toma de instalaciones
+sí,1,31.7246675,-106.4249403,Chihuahua,Juárez,"Secretaría de Desarrollo Agrario, Territorial y Urbano",0,0,1,0,0,1,Marcha,Marcha,Marcha
+sí,1,31.7251367,-106.4687022,Chihuahua,Juárez,Oficinas de CFE,0,0,0,0,0,1,Toma de instalaciones,Toma de instalaciones,Toma de instalaciones
+sí,1,31.7368467,-106.4549249,Chihuahua,Juárez,Hospital de la Mujer,0,0,1,0,0,2,Marcha,Marcha,Marcha
+sí,1,31.737717,-106.4637139,Chihuahua,Juárez,Secretaría de Trabajo y Previsión Social,0,0,1,0,0,1,Marcha,Marcha,Marcha
+sí,2,31.7640876,-106.4512,Chihuahua,Juárez,Puente Internacional de Córdoba,1,0,0,0,0,1,Varios,Varios,Varios
+sí,1,32.5499139,-116.9389293,Baja California,Tijuana,Garita internacional de Otay,1,0,0,0,0,1,Bloqueo,Bloqueo,Bloqueo
+sí,1,32.6399474,-115.4777355,Baja California,Mexicali,Congreso de Baja California,1,0,0,0,0,1,Bloqueo,Bloqueo,Bloqueo
+sí,1,32.6412031,-115.4757435,Baja California,Mexicali,Palacio de Gobierno,0,1,1,0,1,3,Plantón,Plantón,Plantón
+sí,1,32.641856,-115.477814,Baja California,Mexicali,Centro Cívico,0,0,1,0,0,1,Marcha,Marcha,Marcha
+sí,1,32.6477255,-115.4546127,Baja California,Mexicali,Monumento a Benito Juárez,0,0,0,0,0,1,Otro,Pacífico no especificado,Pacífico no especificado
+sí,1,32.6620128,-115.4878221,Baja California,Mexicali,SEP,1,0,0,0,0,1,Bloqueo,Bloqueo,Bloqueo
+sí,1,19.369342,-99.0819331,Ciudad de México,Iztapalapa,Dirección General de Servicios Educativos,0,0,0,1,0,1,Mitin,Mitin,Mitin
