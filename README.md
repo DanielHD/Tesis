@@ -20,7 +20,7 @@ Se incluyen tres directorios.
 
 
 ## Documento final
-* [Descargar (PDF)](03_documento/tesis.pdf)
+* [Ver (PDF)](03_documento/tesis.pdf)
 
 
 ## Licencia
